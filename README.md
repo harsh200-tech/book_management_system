@@ -1,1 +1,1 @@
-# book_management_system
+The Book Management System is an application designed to manage and organize books in a library, bookstore, or digital collection. The main goal of the system is to help users maintain records of books in an efficient and systematic way. Instead of handling book information manually, the system allows users to store, update, and manage book data digitally
